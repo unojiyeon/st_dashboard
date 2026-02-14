@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+koreanize-matplotlib
+scikit-learn
+numpy
+fpdf2
+python-pptx
+tabulate
